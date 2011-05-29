@@ -1,0 +1,8 @@
+Chipmunk block for cinder
+
+1) Simple checkout from git https://github.com/sokolovstas/chipmunk into blocks/chipmunk
+2) Add block to your project
+3) Don't forget include headers in User Header Search Path - "$(CINDER_PATH)/blocks/chipmunk/include"
+4) Set C Language Dialect = GNU99 [-std=gnu99]
+
+Also there is sample with all settings.
